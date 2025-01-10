@@ -23,5 +23,6 @@ Hard Mode 1-100
 + mm/dd/yyyy - DM - short description
 - 01/09/2025 - DM - Created git repository.
 
-Peer Reviewed By:
-> Comments:
+Peer Reviewed By: robert g
+> Comments: everythinig looks good just one thing to say when you type a restaurant Category the front letter has to be CAPS you can fix this by useing 
+``.ToLower``
